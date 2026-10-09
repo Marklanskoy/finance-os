@@ -1,18 +1,20 @@
 {
   "name": "FINANCE OS",
-  "short_name": "FINANCE OS",
-  "description": "Личный финансовый менеджер: доходы, расходы, бюджеты, цели и долги.",
+  "short_name": "Finance OS",
+  "id": "./",
+  "description": "Личные финансы — больше ясности",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f1f3f6",
-  "theme_color": "#1456e6",
+  "background_color": "#f6f5f1",
+  "theme_color": "#176b56",
   "lang": "ru",
-  "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-180.png",
-      "sizes": "180x180",
-      "type": "image/png"
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "icon-512.png",
