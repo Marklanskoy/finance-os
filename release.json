@@ -1,0 +1,30 @@
+{
+  "version": "3.0.0",
+  "bundleHash": "25c00d699f03",
+  "scriptHash": "7svfdXg6J9DwOcC7uC+ZzwWwAHNg56YJID2dJJe+Jpw=",
+  "sourceBytes": 199534,
+  "builtAt": "2026-10-12T07:53:31.134Z",
+  "status": "prepared-not-deployed",
+  "baseRepository": "Marklanskoy/finance-os",
+  "baseIndexGitSha": "96373a885f9c7b36c89316f69235a8d2bb231051",
+  "checks": {
+    "nodePassed": 169,
+    "nodeFailed": 0,
+    "domModelPassed": 48,
+    "domModelFailed": 0
+  },
+  "nativeIndexedDBAndPWA": "not verified in this environment",
+  "files": {
+    "TEST_REPORT.md": "266678c4da39d21d82fa5011da5a0e8ff14531c6b5dee0402b3dd04f64ce5190",
+    "sw.js": "09eb51a2439878878f061d8f223926f30ea3448150d51b2aeb5130fb2dda47be",
+    "icon-192.png": "e5482bab8e0124c702c5dcb891da7dbc667ec329ab62a597e23e07125b004d35",
+    "update.html": "ac7aed54fb3800388c24834bd94015edaf116f041daedbf0f964ee1eda36956b",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "index.html": "25c00d699f036011c1411a16f8b1066734aaaaf2f8e6b7351f3ada4712b1b69f",
+    "icon-180.png": "e0b9a34b65800909218ee52c84628b5149e0ee5f7db9cc378c9820d8d1d638c8",
+    "icon.svg": "672083d5f231fe21501cbef09d6e1160539fac053b36161b2435fd066cdfd8ca",
+    "icon-512.png": "d84dfe327a4e2484af6bdd3e6bffc9a032e36860345513bada624094bfdc9e06",
+    "README.md": "3f2ffd180f0ded88fba17745915489881ecee276bbd2b939e735be1c3094c20f",
+    "manifest.webmanifest": "0b05671b2079b2ca05dad0127dea0c7ee2b42c51853ef98e3ec83119d745da68"
+  }
+}

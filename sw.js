@@ -1,6 +1,6 @@
-/* FINANCE OS 2.0.0 | fa391131dcf9 */
+/* FINANCE OS 3.0.0 | 25c00d699f03 */
 const PREFIX='finance-os:'+self.registration.scope+':';
-const CACHE=PREFIX+'fa391131dcf9';
+const CACHE=PREFIX+'25c00d699f03';
 const HOME=new URL('./index.html',self.registration.scope).href;
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
