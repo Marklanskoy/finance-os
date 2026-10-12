@@ -1,30 +1,33 @@
 {
-  "version": "3.0.0",
-  "bundleHash": "25c00d699f03",
-  "scriptHash": "7svfdXg6J9DwOcC7uC+ZzwWwAHNg56YJID2dJJe+Jpw=",
-  "sourceBytes": 199534,
-  "builtAt": "2026-10-12T07:53:31.134Z",
+  "version": "4.0.0",
+  "bundleHash": "5f461f5dfa6f",
+  "scriptHash": "bjgdqZilXOd9boI/m4JrpQKlIovUwmRSQ3f8LhQ/Axk=",
+  "sourceBytes": 254864,
+  "builtAt": "2026-10-12T13:41:31.826Z",
   "status": "prepared-not-deployed",
   "baseRepository": "Marklanskoy/finance-os",
-  "baseIndexGitSha": "96373a885f9c7b36c89316f69235a8d2bb231051",
+  "baseIndexGitSha": "238309552b5c866b2565a6412cfa0d66604f6329",
   "checks": {
-    "nodePassed": 169,
-    "nodeFailed": 0,
-    "domModelPassed": 48,
-    "domModelFailed": 0
+    "nodePassed": 212,
+    "backendPassed": 26,
+    "domModelPassed": 75,
+    "failed": 0
   },
-  "nativeIndexedDBAndPWA": "not verified in this environment",
+  "liveOpenAI": "not tested: no provider credentials supplied",
+  "nativeIndexedDBAndPWA": "blocked in this environment; unverified",
   "files": {
-    "TEST_REPORT.md": "266678c4da39d21d82fa5011da5a0e8ff14531c6b5dee0402b3dd04f64ce5190",
-    "sw.js": "09eb51a2439878878f061d8f223926f30ea3448150d51b2aeb5130fb2dda47be",
-    "icon-192.png": "e5482bab8e0124c702c5dcb891da7dbc667ec329ab62a597e23e07125b004d35",
-    "update.html": "ac7aed54fb3800388c24834bd94015edaf116f041daedbf0f964ee1eda36956b",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "index.html": "25c00d699f036011c1411a16f8b1066734aaaaf2f8e6b7351f3ada4712b1b69f",
+    "AI_SETUP.md": "f39b0a2c00ad165ee83a74b7fa985d0df0e8e21ee6504da8ea93c04199d024b8",
+    "README.md": "5465d5e375dbbcc79ee3da8e3da082aecd60c2d75a24a4a83231ceba48ae0bf1",
+    "SOURCES.md": "802be5715748b19c67551af03312a2ebe4e48e95b04e8aa95d1d5ef9cc2cf543",
+    "TEST_REPORT.md": "098fab20a8f196bb7d8b8cc518d92d3ee30827df209bd96541cd47c6d0abef0b",
     "icon-180.png": "e0b9a34b65800909218ee52c84628b5149e0ee5f7db9cc378c9820d8d1d638c8",
-    "icon.svg": "672083d5f231fe21501cbef09d6e1160539fac053b36161b2435fd066cdfd8ca",
+    "icon-192.png": "e5482bab8e0124c702c5dcb891da7dbc667ec329ab62a597e23e07125b004d35",
     "icon-512.png": "d84dfe327a4e2484af6bdd3e6bffc9a032e36860345513bada624094bfdc9e06",
-    "README.md": "3f2ffd180f0ded88fba17745915489881ecee276bbd2b939e735be1c3094c20f",
-    "manifest.webmanifest": "0b05671b2079b2ca05dad0127dea0c7ee2b42c51853ef98e3ec83119d745da68"
+    "icon.svg": "672083d5f231fe21501cbef09d6e1160539fac053b36161b2435fd066cdfd8ca",
+    "index.html": "5f461f5dfa6f272a93d2122439f84d4ee79aa4d70b69671dce5c51475961021e",
+    "manifest.webmanifest": "0b05671b2079b2ca05dad0127dea0c7ee2b42c51853ef98e3ec83119d745da68",
+    "sw.js": "11e2954e8963529cfd256bce54f75a4afa2806c537dc45297549c65a7e122726",
+    "update.html": "c7b152046e4ca022dd043b606886bc540ad88301c3f8fcc23132fb6a67959631"
   }
 }
